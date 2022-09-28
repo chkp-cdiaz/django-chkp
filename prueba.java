@@ -1,2 +1,7 @@
 asdassdas
 carlosdiaz
+fake AWS tokens
+
+AKIAY4C6BGGS4P4ZLQ7S
+
+JDE939YZr91sWB5zuuIrJUMO4n/Jjmk1PhzmGxw5
