@@ -31,7 +31,7 @@ jobs:
         uses: spectralops/spectral-github-action@v2
         with:
             spectral-dsn: ${{ env.SPECTRAL_DSN }}
-            spectral-args: scan --include-tags base,audit3,iac
+            spectral-args: scan --ok --include-tags base,audit3,iac
 
       - name: Log in to Docker Hub
         uses: docker/login-action@f054a8b539a109f9f41c372932f1ae047eff08c9
