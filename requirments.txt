@@ -4,3 +4,4 @@ django-compat
 httplib2
 pytz
 six
+flask
