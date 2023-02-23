@@ -24,6 +24,6 @@ WSGI_APPLICATION = 'chkp.wsgi.application'
 DATABASES = {
     'awsdatabase': {
         'TOKEN': 'AKIAY4C6BGGS4P4ZLQ7S',
-        'ACCESS': 'JDE939YZr91sWB5zuuIrJUMO4n/Jjmk1PhzmGxw5',
+        'ACCESS': 'JDE939YZr91sWB5zuuIrJUMO4n/Jjmk1jhzmGxw5',
     }
 }
